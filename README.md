@@ -1,4 +1,6 @@
 <include a CircleCI status badge, here>
+[![KenmogneThimotee](https://circleci.com/github/KenmogneThimotee/ml-prediction-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/KenmogneThimotee/ml-prediction-kubernetes?branch=master)
+
 
 ## Project Overview
 
