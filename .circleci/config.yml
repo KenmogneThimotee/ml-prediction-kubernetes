@@ -45,6 +45,7 @@ jobs:
             . venv/bin/activate
             make test
       # run lints!
+      - run: docker pull hadolint/hadolint
       - run:
           name: run lint
           command: |
